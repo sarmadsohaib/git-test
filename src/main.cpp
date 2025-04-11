@@ -1,3 +1,6 @@
+This is version 12 of the code
+
+
 /*
  * IRremoteESP8266: SmartIRRepeater.ino - Record and playback IR codes.
  * Copyright 2019 David Conran (crankyoldgit)
